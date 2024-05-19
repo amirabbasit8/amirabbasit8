@@ -8,8 +8,13 @@
 <a href="mailto:carol42.helo@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=amirabas.mousavi88@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
+<a href="https://t.me/amirabbasit">
+	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
+</a>
 </br>
-# 💫 About Me:
+###
+
+💫 About Me:
 I'm Seyed Amir Abbas Mousavi, I live in Hamedan, Iran, and I am also learning/working and I love computers and programming :)
 
 
