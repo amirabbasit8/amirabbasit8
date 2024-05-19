@@ -5,18 +5,20 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Amirabbas;her;Freelancer;Computer+Engineering+Student;Web developer;Python programmer;PHP programmer;Computer+Lover+:);" alt="Freelancer , Web developer , Python programmer , PHP programming"></a>
 </div>
 
+# 💫 About Me:
+I'm Seyed Amir Abbas Mousavi, I live in Hamedan, Iran, and I am also learning/working and I love computers and programming :)
+
+</br>
 <a href="mailto:carol42.helo@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=amirabas.mousavi88@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
+</br>
+</br>
 <a href="https://t.me/amirabbasit">
 	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
 </a>
 </br>
-###
-
-💫 About Me:
-I'm Seyed Amir Abbas Mousavi, I live in Hamedan, Iran, and I am also learning/working and I love computers and programming :)
-
+</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirabbasit8) 
